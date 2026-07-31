@@ -88,6 +88,25 @@ Transactions exceeding the configured threshold are flagged as potentially fraud
 - Efficient database querying using SQLAlchemy ORM
 
 ---
+## Screenshots
+
+### API Documentation
+
+![Swagger UI](screenshots/swagger--ui.png)
+
+### Transaction Statistics
+
+![Statistics](screenshots/stats-api.png)
+
+### Fraud Detection Response
+
+![Transaction Response](screenshots/transaction-response.png)
+
+### PostgreSQL Database
+
+![Database](screenshots/postgres-transactions-table.png)
+
+---
 
 ## Future Improvements
 
